@@ -1,2 +1,3 @@
-# carousel
+# Carousel
+
 Checking out LoopBack
